@@ -1,0 +1,32 @@
+.header ul {
+  list-style-type: none;
+}
+
+.header ul li {
+  text-decoration: none;
+  padding-top: 10px;
+  margin-top: 5px;
+}
+
+.header {
+  font-size: 16px;
+  display: flex;
+  justify-content: space-between;
+  padding: 14px 60px;
+}
+
+.header li {
+  display: inline-block;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+.header a {
+  text-decoration: none;
+} 
+
+.headerbtn {
+  border: 1px solid;
+  color: red;
+  background-color:#ffffff;
+}
